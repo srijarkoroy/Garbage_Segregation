@@ -7,7 +7,7 @@ Waste Segregation means to group Waste into different Categories. Each waste goe
 In this project, we have tried to classify garbage under the same categories as provided by the Waste Regulations 2011:
 <br>
 
-<img src="visualize/cardboard15.jpg" height = "110" > <img src="visualize/glass6.jpg" height = "110" > <img src="visualize/metal21.jpg" height = "110" > <img src="visualize/paper10.jpg" height = "110" > <img src="visualize/plastic25.jpg" height = "110" > <img src="visualize/trash91.jpg" height = "110" >
+<img src="visualize/cardboard15.jpg" height = "90" > <img src="visualize/glass6.jpg" height = "90" > <img src="visualize/metal21.jpg" height = "90" > <img src="visualize/paper10.jpg" height = "90" > <img src="visualize/plastic25.jpg" height = "90" > <img src="visualize/trash91.jpg" height = "90" >
 <br>
 
 - Cardboard 
