@@ -1,4 +1,4 @@
-# Garbage_Segregation
+# Garbage Segregation
 
 Waste Segregation means to group Waste into different Categories. Each waste goes into its category at the point of dumping or collection. Under the Waste Regulations 2011, you must segregate cardboard, glass, metal, paper, plastic, trash and at source unless it is technically or economically unfeasible. Under the same regulations, you should implement the waste hierarchy; reduce, reuse, recycle, other recovery and disposal.  By law, you should implement this hierarchy and segregation helps with recycling in particular. Waste segregation is included in law because it is much easier to recycle. Effective segregation of wastes means that less waste goes to landfill which makes it cheaper and better for people and the environment. It is important to segregate for public health.  In particular, hazardous wastes can cause long term health problems, so it is very important that they are disposed of correctly and safely and not mixed in with the normal waste coming out of your home or office.
 
