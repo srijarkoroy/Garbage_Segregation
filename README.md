@@ -43,3 +43,7 @@ In this project, we have tried to classify garbage under the same categories as 
 - Saving model as 'model.h5'
 
 - Deploying the Model as a Web Application using Streamlit
+
+<hr>
+
+For a quick guide on using the Web Application, click <a href = "https://github.com/srijarkoroy/Garbage_Segregation/blob/main/Deployment/README.md">here</a>
