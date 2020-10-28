@@ -46,7 +46,7 @@ In this project, we have tried to classify garbage under the same categories as 
 
 <hr>
 
-# Steps for using the Web Application
+## Steps for using the Web Application
 - Setting up the Python Environment with the dependencies:
 
         pip install -r Requirements.txt
@@ -64,10 +64,10 @@ In this project, we have tried to classify garbage under the same categories as 
 
         Ctrl+C
 
-# Demonstration
+## Demonstration
 <br>
 
-Here's a Demo on how the Web App works 
+Here's a Demo on how the Web Application works 
 <br>
 <br>
 
