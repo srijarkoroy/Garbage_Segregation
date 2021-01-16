@@ -52,3 +52,5 @@ try:
 
         prediction = model.predict(img[np.newaxis, ...])
         st.info('Hey! The uploaded image has been classified as " {} waste " '.format(labels[np.argmax(prediction[0], axis=-1)]))
+except:
+  pass
