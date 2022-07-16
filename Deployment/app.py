@@ -1,3 +1,4 @@
+import time
 import streamlit as st
 import numpy as np
 from PIL import Image
@@ -52,5 +53,6 @@ try:
 
         prediction = model.predict(img[np.newaxis, ...])
         st.info('Hey! The uploaded image has been classified as " {} waste " '.format(labels[np.argmax(prediction[0], axis=-1)]))
-except:
+except Exception as e:
+  st.info(e)
   pass
