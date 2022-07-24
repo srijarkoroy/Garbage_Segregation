@@ -47,16 +47,17 @@ In this project, we have tried to classify garbage under the same categories as 
 <hr>
 
 ## Steps for using the Web Application
-- Setting up the Python Environment with the dependencies:
-
-        pip install -r Requirements.txt
-
 - Cloning the Repository: 
 
         git clone https://github.com/srijarkoroy/Garbage_Segregation.git
 - Entering The directory: 
 
         cd Garbage_Segregation
+        
+- Setting up the Python Environment with the dependencies:
+
+        pip install -r Requirements.txt
+        
 - Running the Web App:
 
         streamlit run app.py
